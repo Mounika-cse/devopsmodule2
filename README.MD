@@ -11,3 +11,6 @@ This repository contains DevOps module2 practical programs and exercises.
 -github
 -pyton
 -java
+This repository demonstrates Git and GitHub operations including cloning, staging,
+committing, pushing, pulling, and merge conflict resolution.
+
